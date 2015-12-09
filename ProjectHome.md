@@ -1,0 +1,1 @@
+Projeto de desenvolvimento de uma aplicação móvel para o sistema operacional Android com o objetivo em adquirir conhecimentos sobre o mesmo.
